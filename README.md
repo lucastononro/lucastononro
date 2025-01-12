@@ -60,12 +60,4 @@
 </div>
 
 ---
-
-## 💌 Let's Connect
-
-- 📫 **Email**: [ltononro@gmail.com](mailto:ltononro@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/ltononro](https://www.linkedin.com/in/ltononro)
-
----
-
 > _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
