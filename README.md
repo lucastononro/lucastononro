@@ -41,13 +41,4 @@
   <div>
     <img src="https://github-profile-trophy.vercel.app/?username=lucastononro&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
   </div>
-  
-  <br>
-  
-  <!-- Fancy Divider -->
-  <hr style="border:1px solid orange">
-  
-</div>
-
----
-> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+</div
