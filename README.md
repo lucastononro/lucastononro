@@ -1,13 +1,4 @@
-<div align="center">
-  
-  <!-- Title -->
-  # 👋 Welcome to Lucas Tonon's GitHub Profile!
-  
-  <p>
-    Passionate about solving real-world problems through code. <br/>
-    Exploring the endless possibilities of AI.
-  </p>
-  
+<div align="center"> 
   <!-- Profile Badges -->
   <div id="badges">
     <a href="https://github.com/lucastononro">
