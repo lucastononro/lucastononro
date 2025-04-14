@@ -14,11 +14,7 @@
   
   <br>
   
-  <!-- GitHub Stats -->
-  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucastononro&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000&hide=issues,contribs" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastononro&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Top Languages"/>
-  </div>
+
 
   ## 🔧 Tech Toolbox
 
