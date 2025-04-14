@@ -29,9 +29,4 @@
   </div>
 
   <br>
-  
-  <!-- GitHub Trophies -->
-  <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=lucastononro&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-  </div>
 </div
